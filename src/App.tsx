@@ -8,7 +8,7 @@ const oidcConfig = {
   onSignIn: async (user: any) => {
     alert('You just signed in, congratz! Check out the console!');
     console.log(user);
-    window.location.href = '/';
+    window.location.hash = '';
   },
   authority: 'https://accounts.google.com',
   clientId:
