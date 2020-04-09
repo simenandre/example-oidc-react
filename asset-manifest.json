@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/example-oidc-react/static/css/main.5f361e03.chunk.css",
-    "main.js": "/example-oidc-react/static/js/main.eff2e4f3.chunk.js",
-    "main.js.map": "/example-oidc-react/static/js/main.eff2e4f3.chunk.js.map",
+    "main.js": "/example-oidc-react/static/js/main.6769ffef.chunk.js",
+    "main.js.map": "/example-oidc-react/static/js/main.6769ffef.chunk.js.map",
     "runtime-main.js": "/example-oidc-react/static/js/runtime-main.c8237d1c.js",
     "runtime-main.js.map": "/example-oidc-react/static/js/runtime-main.c8237d1c.js.map",
     "static/js/2.6adb8882.chunk.js": "/example-oidc-react/static/js/2.6adb8882.chunk.js",
     "static/js/2.6adb8882.chunk.js.map": "/example-oidc-react/static/js/2.6adb8882.chunk.js.map",
     "index.html": "/example-oidc-react/index.html",
-    "precache-manifest.98ad829ac1408222ff0104d6046e3f91.js": "/example-oidc-react/precache-manifest.98ad829ac1408222ff0104d6046e3f91.js",
+    "precache-manifest.4520633019caef3163ef69f64208fbe5.js": "/example-oidc-react/precache-manifest.4520633019caef3163ef69f64208fbe5.js",
     "service-worker.js": "/example-oidc-react/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/example-oidc-react/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.6adb8882.chunk.js.LICENSE.txt": "/example-oidc-react/static/js/2.6adb8882.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.c8237d1c.js",
     "static/js/2.6adb8882.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.eff2e4f3.chunk.js"
+    "static/js/main.6769ffef.chunk.js"
   ]
 }
