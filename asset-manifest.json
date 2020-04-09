@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/example-react-oidc/static/css/main.5f361e03.chunk.css",
+    "main.js": "/example-react-oidc/static/js/main.725b7eaa.chunk.js",
+    "main.js.map": "/example-react-oidc/static/js/main.725b7eaa.chunk.js.map",
+    "runtime-main.js": "/example-react-oidc/static/js/runtime-main.5859c816.js",
+    "runtime-main.js.map": "/example-react-oidc/static/js/runtime-main.5859c816.js.map",
+    "static/js/2.6adb8882.chunk.js": "/example-react-oidc/static/js/2.6adb8882.chunk.js",
+    "static/js/2.6adb8882.chunk.js.map": "/example-react-oidc/static/js/2.6adb8882.chunk.js.map",
+    "index.html": "/example-react-oidc/index.html",
+    "precache-manifest.e3ced4ac152a9c67df858078c112ceea.js": "/example-react-oidc/precache-manifest.e3ced4ac152a9c67df858078c112ceea.js",
+    "service-worker.js": "/example-react-oidc/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/example-react-oidc/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6adb8882.chunk.js.LICENSE.txt": "/example-react-oidc/static/js/2.6adb8882.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/example-react-oidc/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5859c816.js",
+    "static/js/2.6adb8882.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.725b7eaa.chunk.js"
+  ]
+}
