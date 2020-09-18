@@ -3,7 +3,7 @@ import { useAuth } from 'oidc-react';
 
 const LoggedIn = () => {
   const auth = useAuth();
-  if (auth.userData) {
+  if (auth && auth.userData) {
     return (
       <div>
         <strong>Logged in! 🎉</strong><br />
