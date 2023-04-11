@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://cobraz.github.io/example-oidc-react",
-  "repository": "github:cobraz/example-oidc-react",
+  "repository": "github:simenandre/example-oidc-react",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
